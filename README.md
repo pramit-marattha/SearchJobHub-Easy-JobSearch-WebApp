@@ -1,5 +1,7 @@
 
 ## It's Live 🎉 Visit here ==>https://searchjobhub.netlify.app/
+---
+![job_search](https://user-images.githubusercontent.com/37651620/88305716-8b248100-cd29-11ea-9299-d759d3c4c507.gif)
 
 
 ## Available Scripts
