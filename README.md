@@ -1,3 +1,4 @@
+Simple and awesome way to search jobs. Search job (WebApp that uses Github jobs API ) . Its also hosted on netlify aswell , so you can apply for job from any corner of the world.
 
 ## It's Live 🎉 Visit here ==>https://searchjobhub.netlify.app/
 ---
